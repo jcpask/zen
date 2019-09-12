@@ -1,0 +1,21 @@
+body
+{
+    font-family: Helvetica;
+    background-color: lightgray;
+    }
+a:hover {
+  background-color: yellow;
+}
+p {
+    background-color: whitesmoke;
+    font-family: Helvetca;
+    color: darkmagenta;
+    text-align: left;
+    }
+h1 {
+    background-color: azure;
+    color: darkslategray;
+    min-width: 450px;
+    max-width: 650px;
+    text-align: center;
+    }
